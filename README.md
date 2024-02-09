@@ -1,26 +1,25 @@
-The extension bypasses Glassdoor's login restriction by injecting javascript into the website:
+# Glassdoor Login Bypass Extension
 
-https://www.glassdoor.com
+This extension bypasses Glassdoor's login restriction by injecting JavaScript into the website. It allows users to directly access the reviews section without requiring them to log in. The website in question is Glassdoor.
 
-This will take the user directly to the reviews section without requiring them to log in.
+## Installation
 
+The extension can be easily installed. Here's how to install an extension as an unpacked folder:
 
-Can be easily installed and here's how to install an extension as an unpacked folder:
+### Enable Developer Mode
 
-1. Enable Developer Mode:
+1. Open Chrome and click the three dots in the top right corner.
+2. Go to More tools > Extensions.
+3. Toggle the switch for Developer mode on.
 
-Open Chrome and click the three dots in the top right corner.
-Go to More tools > Extensions.
-Toggle the switch for Developer mode on.
+### Load the Unpacked Folder
 
-2. Load the Unpacked Folder:
+1. Click the Load unpacked button.
+2. Select the folder containing the unpacked extension files. This folder should have a file named "manifest.json" inside it.
+3. Click Select folder.
 
-Click the Load unpacked button.
-Select the folder containing the unpacked extension files. This folder should have a file named "manifest.json" inside it.
-Click Select folder.
-
-3. Confirm and Install:
+### Confirm and Install
 
 You'll see a warning about the security risks of using unpacked extensions. Read it carefully and only proceed if you understand and accept the risks.
 
-Click Add extension.
+Finally, click Add extension.

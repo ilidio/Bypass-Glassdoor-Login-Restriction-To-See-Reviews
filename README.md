@@ -1,4 +1,4 @@
-# Glassdoor Login Bypass Extension
+# Glassdoor Login Bypass Extension for Google Chrome
 
 This extension bypasses Glassdoor's login restriction by injecting JavaScript into the website. It allows users to directly access the reviews section without requiring them to log in. The website in question is Glassdoor.
 
